@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aquarium/aquarium.iml" filepath="$PROJECT_DIR$/aquarium/aquarium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-boot-camp-lesson-5-kotlin-essentials.iml" filepath="$PROJECT_DIR$/kotlin-boot-camp-lesson-5-kotlin-essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aquarium/kotlin-essentials.iml" filepath="$PROJECT_DIR$/aquarium/kotlin-essentials.iml" />
+    </modules>
+  </component>
+</project>
